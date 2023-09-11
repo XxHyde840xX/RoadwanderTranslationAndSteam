@@ -12,7 +12,7 @@
 	<modDependencies>
 	</modDependencies>
 	<loadAfter>
-		<li>RoadwandererSWB</li>
+		<li>RoadwandererSWB_copy</li>
 	</loadAfter>
 	<description>Chinese to English translation of @RedFox_2020's "Roadwanderer" SWB. I apologize for any mistranslations as I do not speak Chinese. 
 	Big thanks to the original author for allowing me to do a translation for their awesome mod. I hope you guys enjoy their mod as much as I have.
